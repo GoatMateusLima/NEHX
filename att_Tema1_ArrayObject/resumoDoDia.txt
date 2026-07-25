@@ -1,0 +1,15 @@
+Hoje as dia 2 de julho de 2026 das 23 ate as 2h eu tava estdando, aprendi o seginte. resumo maximo:
+-Array: Uma estrutura que permite colocar varios valores em uma variavel.
+-Object: uma estrutura que pemrite colcocar varios valores em um elemento.
+-indice: A localizacao de um elementocom base no inicio e por isso todos comecam do 0.
+-Array de Objetc: Array de objetos sao uma estrutura que guarda diversos valores/elemntos dentro de uma variavel e cada elemento contem chaves e propriedades.
+-metodos: metodos sao uma acao que toda estrutura realiza, como se fosse funcoes prontas dentro de cada estrutura/variavel, como por exemplo a conversao de string para array.
+
+tipos de metodos:
+
+push - adiciona ao final
+pop - remove do final
+unshift - adiciona ao inicio
+shift - tira do inicio
+
+splice - arranca atarves de qualquer posicao

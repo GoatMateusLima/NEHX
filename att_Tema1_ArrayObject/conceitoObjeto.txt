@@ -1,0 +1,12 @@
+CONCEITO: Objeto e uma estrutura que guarda varios valores relacionados a um elemento, os valores sao chamados de chaves ou propriedades que recebe valores, diferente do array que agrupa varios elementos ou varios objetos aqui em especifico agrupamos os dados de um objeto literalemnete, como se existisse um array de usuarios e dentro de tivesse diveross usuarios como objetos {}, para  eu colocar dados em apenas um usuario basta trasnformalo em um objeto usando {}.
+
+CHAVES: mais conhecida como propriedades sao  associacao que aocntece entre um tipo e uma categoria e tipo e categoria que digo aqui sera a varivel e seu sub componente imagine uma estante de LIVROS onde contem 3 tipos de LIVROS entre eles sao romatico, filosofia, e gastronomia, esses 3 sao as propriedades ou chaves dentro do objeto LIVRO.
+
+[-] EXEMPLO errado prem ainda e  correto pois isso e um  array de objetos: 
+const livro = [{romantico: "noites raancas"}, {filosofia: "socrates"}, {gastronomia: "como cozinhar"}]
+
+[–] isso e o EXEMPLO CORRETO de objetos:
+const livros = {type:"romantico" }
+
+e para se locomover e ir direto na posicao nao usamos um indice mas a variavel e sua propriedades:
+livro.type

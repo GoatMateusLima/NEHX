@@ -1,0 +1,12 @@
+CONCEITO: Array e uma estrutura que guarda varios valors em uma variavel, como se fosse uma caixa onde seu nome fosse FRUTAS e dentro dela eu pudesse guardar todas as frutas uqe eu quisesse.
+
+Um exemplo e ANALOGIA seria o armario de uma academia numerado onde cada compartimento gurdasse algo do 0 a qualquer outro valor, podendo ser um armario com 10 a 20.000 ou ate mais compartimentos.
+
+INDICE: se array e uma caixa de frutas entao cada item tem sua numeracao esse e  a posicao dentro da caixa, o indice comeca no 0.
+
+exemplo: 
+
+const caixaFrutas = [tomate, kiwi, maca, uva, melao, abacate, ........]    //um array.      
+            INDICE: [0     ,   1 ,  2  ,  3 ,  4   ,  5     , ........]
+
+
