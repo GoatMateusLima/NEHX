@@ -66,6 +66,8 @@ function renderList() {
             let numero = dados.get('numero')
             let senha = dados.get('senha')
 
+
+            //Usei um verificador tenario para saber se o valor e vazio ou contem dados.
             name == '' ? name = a.name : name = name
             idade == '' ? idade = a.idade : idade = idade
             email == '' ? email = a.email : email = email
